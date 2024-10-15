@@ -1,0 +1,40 @@
+_repo: Wood-folk-comedies-b-The-play-of-wild-animal-life-on-a-natural-stage_74583
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bull, Charles Livingston
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '9742'
+    url: http://www.gutenberg.org/2009/agents/9742
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Livingston_Bull
+creator:
+  author:
+    agent_name: Long, William J. (William Joseph)
+    alias: Long, William Joseph
+    birthdate: 1867
+    deathdate: 1952
+    gutenberg_agent_id: '744'
+    url: http://www.gutenberg.org/2009/agents/744
+    wikipedia: https://en.wikipedia.org/wiki/William_J._Long
+description: ''
+gutenberg_issued: '2024-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74583'
+language: en
+pgterms:marc904: https://archive.org/details/woodfolkcomedies0000will/mode/2up
+pgterms:marc905: 20240727125806long
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Susan E., David E. Brown, Sue Clark, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bHarper & Brothers, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Wood-folk comedies : $b The play of wild-animal life on a natural stage'
+url: http://www.gutenberg.org/ebooks/74583
